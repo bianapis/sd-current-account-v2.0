@@ -1,0 +1,45 @@
+{
+  "currentAccountFulfillmentArrangementRetrieveActionResponse" : "currentAccountFulfillmentArrangementRetrieveActionResponse",
+  "currentAccountFulfillmentArrangementInstanceAnalysis" : {
+    "currentAccountFulfillmentArrangementInstanceAnalysisData" : "currentAccountFulfillmentArrangementInstanceAnalysisData",
+    "currentAccountFulfillmentArrangementInstanceAnalysisReport" : {},
+    "currentAccountFulfillmentArrangementInstanceAnalysisReportType" : "currentAccountFulfillmentArrangementInstanceAnalysisReportType"
+  },
+  "currentAccountFulfillmentArrangementInstanceReportRecord" : {
+    "currentAccountFulfillmentArrangementInstanceReportType" : "currentAccountFulfillmentArrangementInstanceReportType",
+    "currentAccountFulfillmentArrangementInstanceReport" : {},
+    "currentAccountFulfillmentArrangementInstanceReportData" : "currentAccountFulfillmentArrangementInstanceReportData"
+  },
+  "currentAccountFulfillmentArrangementRetrieveActionTaskReference" : "CAFARATR748576",
+  "currentAccountFulfillmentArrangementRetrieveActionTaskRecord" : {},
+  "currentAccountFulfillmentArrangementInstanceRecord" : {
+    "currentAccountNumber" : "currentAccountNumber",
+    "associations" : {
+      "associationReference" : "716465",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "taxReference" : "709480",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "accountType" : "accountType",
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "accountCurrency" : "USD",
+    "bankBranchLocationReference" : "718448",
+    "productInstanceReference" : "721040",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "customerReference" : "794126",
+    "linkedAccounts" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition"
+  }
+}

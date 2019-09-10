@@ -1,0 +1,35 @@
+{
+  "currentAccountFulfillmentArrangementUpdateActionTaskReference" : "CAFAUATR714145",
+  "updateResponseRecord" : {},
+  "currentAccountFulfillmentArrangementUpdateActionTaskRecord" : {},
+  "currentAccountFulfillmentArrangementInstanceRecord" : {
+    "currentAccountNumber" : "currentAccountNumber",
+    "associations" : {
+      "associationReference" : "773866",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "taxReference" : "726005",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "accountType" : "accountType",
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "accountCurrency" : "USD",
+    "bankBranchLocationReference" : "736534",
+    "productInstanceReference" : "757796",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "customerReference" : "723910",
+    "linkedAccounts" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition"
+  }
+}

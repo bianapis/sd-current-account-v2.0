@@ -1,0 +1,14 @@
+{
+  "depositsAndWithdrawalsExecuteRecordReference" : "DAWERR766990",
+  "executeResponseRecord" : {},
+  "depositsAndWithdrawalsInstanceRecord" : {
+    "withdrawalTransaction" : {
+      "withdrawalTransactionDate" : "09-22-2018"
+    },
+    "depositTransaction" : {
+      "depositTransactionDate" : "09-22-2018"
+    }
+  },
+  "depositsAndWithdrawalsExecuteActionTaskRecord" : {},
+  "depositsAndWithdrawalsExecuteActionTaskReference" : "DAWEATR710009"
+}

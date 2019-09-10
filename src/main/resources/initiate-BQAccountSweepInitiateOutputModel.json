@@ -1,0 +1,15 @@
+{
+  "accountSweepInstanceRecord" : {
+    "accountSweepDefinition" : "accountSweepDefinition",
+    "accountSweepApplicationSchedule" : "accountSweepApplicationSchedule"
+  },
+  "accountSweepInstanceReference" : "ASIR701969",
+  "accountSweepInitiateActionRecord" : {},
+  "accountSweepInstanceStatus" : "accountSweepInstanceStatus",
+  "accountSweepInitiateActionReference" : "ASIAR795191",
+  "currentAccountFulfillmentArrangementInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    }
+  }
+}

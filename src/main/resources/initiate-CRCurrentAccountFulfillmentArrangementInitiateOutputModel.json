@@ -1,0 +1,23 @@
+{
+  "currentAccountFulfillmentArrangementInstanceReference" : "CAFAIR796897",
+  "currentAccountFulfillmentArrangementInitiateActionReference" : "CAFAIAR775759",
+  "currentAccountFulfillmentArrangementInstanceStatus" : "currentAccountFulfillmentArrangementInstanceStatus",
+  "currentAccountFulfillmentArrangementInitiateActionRecord" : {},
+  "currentAccountFulfillmentArrangementInstanceRecord" : {
+    "currentAccountNumber" : "currentAccountNumber",
+    "productInstanceReference" : "720007",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "accountCurrency" : "USD",
+    "entitlementOptionDefinition" : "entitlementOptionDefinition"
+  }
+}
